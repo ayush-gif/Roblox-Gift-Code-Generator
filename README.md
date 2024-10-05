@@ -1,6 +1,6 @@
 # Roblox Gift Code Generator
 
-[Click to download](https:/github.com/ePearl2020/Roblox-Gift-Code-Generator/releases/download/1.0/Roblox-Gen.py)
+[Click to download](https://github.com/ePearl2020/Roblox-Gift-Code-Generator/releases/download/1.0/Roblox-Gen.py)
 
 ## 💻 Preview
 
